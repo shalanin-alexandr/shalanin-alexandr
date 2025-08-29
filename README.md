@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Alexandr 👋
 
-<!--
-**shalanin-alexandr/shalanin-alexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me ☺️
+I'm a passionate self-taught developer from Belarus. I'm currently on a path to building a strong foundation in full-stack development, with a goal to create elegant and useful web applications. My journey started with a strong interest in creating things from scratch, and I'm dedicated to expanding my skills across different technologies.
 
-Here are some ideas to get you started:
+### My Skills 💻
+* **HTML:** Solid understanding of semantic markup.
+* **CSS:** Experience with responsive and modern web design.
+* **JavaScript:** Currently focused on building a strong foundation in the language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goals 🚀
+* **By the end of 2026:** Build a powerful portfolio with at least four large projects.
+* **By mid-2028:** Secure a job at a foreign company and relocate abroad.
+* **Ongoing:** Master new technologies and continuously improve my skills in English.
+
+### Connect with Me 📫
+* **Email:** alexandr.shalanin.dev@gmail.com
+
+

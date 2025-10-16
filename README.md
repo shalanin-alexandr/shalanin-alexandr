@@ -7,7 +7,7 @@ I'm a passionate self-taught developer from Belarus. I'm currently on a path to 
 * **HTML:** Solid understanding of semantic markup.
 * **CSS:** Experience with responsive and modern web design.
 * **JavaScript:** Strong base of the language.
-* **Python:** Good knoledge at creating different scripts.
+* **Python:** Good knowledge at creating different scripts.
 
 ### My Goals 🚀
 * **By the end of 2026:** Build a powerful portfolio with at least four large projects.
